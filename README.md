@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
   
 
-- 🔭 I’m currently working on Developing the biggest small business solutions with Azure & .NET
+- 🔭 I’m currently working on Developing the biggest small businesses solution with Azure & .NET
 
 - 🌱 I’m currently learning Architecting complex software solutions with Azure & .NET
 
