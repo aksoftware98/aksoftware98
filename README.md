@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: My name is Ahmad Mozaffar but I prefect to call me AK 
 - ⚡ Fun fact: I sleep 3 hours a day 
 
+
+<a href="https://www.buymeacoffee.com/akacademy99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ![Personal Cover](https://github.com/aksoftware98/aksoftware98/blob/main/GitHub%20readme.jpg?raw=true)
 
 Check out my YouTube Channel AK Academy Here [AK Academy](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) 
