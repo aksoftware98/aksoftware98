@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Microsoft & Software Development 
 
 - 📫 How to reach me: Check the links below
-- 😄 Pronouns: My name is Ahmad Mozaffar but I prefect to call me AK 
+- 😄 Pronouns: My name is Ahmad Mozaffar but I prefer to call me AK 
 - ⚡ Fun fact: I sleep 3 hours a day 
 
 
