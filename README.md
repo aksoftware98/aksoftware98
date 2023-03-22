@@ -4,11 +4,15 @@ I would like you to call me ***AK***
 
 Here are some ideas to get you started:
 
-  
+Originally from Syria :syria: currently living in Portugal 🇵🇹 and Estonia 🇪🇪 at the same time 😆
 
-- 🔭 I’m currently working on Developing the biggest small businesses solution with Azure & .NET
+Working as Senior Software Engineer at ContraForce [ContraForce](https://contraforce.com)
 
-- 🌱 I’m currently learning Architecting complex software solutions with Azure & .NET
+- 🔭 I’m currently working on developing the easiest solution to transfer data between your devices.
+
+- 📖 I'm currently writting a book called Master Blazor WebAssembly with Packt 
+
+- 🌱 I’m currently learning architecting complex software solutions with Azure & .NET
 
 - 👯 I’m looking to collaborate on projects related to the climate change and space industry
 
@@ -16,7 +20,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Check the links below
 - 😄 Pronouns: My name is Ahmad Mozaffar but I prefer to call me AK 
-- ⚡ Fun fact: I sleep 3 hours a day 
 
 
 <a href="https://www.buymeacoffee.com/akacademy99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
