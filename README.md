@@ -24,6 +24,11 @@ Working as Senior Software Engineer at ContraForce [ContraForce](https://contraf
 
 <a href="https://www.buymeacoffee.com/akacademy99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aksoftware98&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aksoftware98&langs_count=5&theme=tokyonight)]()
+
+
 
 ![Personal Cover](https://github.com/aksoftware98/aksoftware98/blob/main/GitHub%20readme.jpg?raw=true)
 
