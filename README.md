@@ -2,15 +2,11 @@
 ### Welcome to Ahmad Mozaffar GitHub Profile 
 I would like you to call me ***AK***
 
-Here are some ideas to get you started:
-
-Originally from Syria :syria: currently living in Portugal 🇵🇹 and Estonia 🇪🇪 at the same time 😆
-
 Working as Senior Software Engineer at ContraForce [ContraForce](https://contraforce.com)
 
 - 🔭 I’m currently working on developing the easiest solution to transfer data between your devices.
 
-- 📖 I'm currently writting a book called Master Blazor WebAssembly with Packt 
+- 📖 I'm currently writing a book called Master Blazor WebAssembly with Packt 
 
 - 🌱 I’m currently learning architecting complex software solutions with Azure & .NET
 
