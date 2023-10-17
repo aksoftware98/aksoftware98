@@ -2,6 +2,12 @@
 ### Welcome to Ahmad Mozaffar GitHub Profile 
 I would like you to call me ***AK***
 
+## Newly Announced "Mastering Blazor WebAssembly"
+
+<a href="https://blazorwebassembly.com" target="_blank"><img src="https://blazorwebassembly.com/Assets/Images/main.png" style="width:300px" /></a>
+
+**Check out the book's website here** [Mastering Blazor WebAssembly](https://blazorwebassembly.com)
+
 Working as Senior Software Engineer at ContraForce [ContraForce](https://contraforce.com)
 
 - 🔭 I’m currently working on developing the easiest solution to transfer data between your devices.
